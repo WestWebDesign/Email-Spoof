@@ -31,7 +31,7 @@
   <li>Most web hosting servers are a trusted server</li>
   <li>All web hosting servers will have a mail feature if you pay for the service.</li>
 </ul>
-
-<h3>Spoof Website</h3>
 <hr>
+<h3>Spoof Website</h3>
+
 <a href="https://hsft.000webhostapp.com/sendmail.php">Click Here</a>
