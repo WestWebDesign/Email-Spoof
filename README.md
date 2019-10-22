@@ -33,4 +33,5 @@
 </ul>
 
 <h3>Spoof Website</h3>
+<hr>
 <a href="https://hsft.000webhostapp.com/sendmail.php">Click Here</a>
